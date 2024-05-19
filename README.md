@@ -1,6 +1,6 @@
-# Ex.No- 4 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 29/04/2024
+### DATE: 
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,16 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![326237119-23bcc9fe-7978-4f8e-8a87-9fad3ce9408b](https://github.com/Md-Afshan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140059/78f522a2-459e-4402-aa0a-0afe9b94af08)
+![image](https://github.com/Md-Afshan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140059/584bfcf5-8a02-4f39-b415-8a40139a53b2)
 
 ### Output:
-
-![326237127-d111bad1-cf78-43cf-af36-9144b8be4199](https://github.com/Md-Afshan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140059/8f3ca25e-ae1c-4ca3-b465-ff04ee8afca2)
-
+![image](https://github.com/Md-Afshan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140059/562dfce8-9f63-4441-b27f-4b17a9b54682)
 
 
-### Name: MUHAMMAD AFSHAN .A
+### Name: MUHAMMAD AFSHAN .A 
 ### Register Number: 212223100035
 
 ## RESULT:
-###  Thus the given product is reverse engineered and prototyped using 3D Printer.
+###   Thus the given product is reverse engineered and prototyped using 3D Printer.
